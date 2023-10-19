@@ -10,7 +10,7 @@ Dentro de este proyecto, realizamos pruebas de manera dinámica en dos API de ac
 
 1. OPEN WEATHER PROJECT: https://api.openweathermap.org
 2. RESTFUL BOOKER - BOOKING: https://restful-booker.herokuapp.com/booking
-3. 
+    
 En estas evaluaciones, cubrimos una amplia gama de solicitudes, que incluyen operaciones GET, POST, PUT y DELETE.
 
 Es importante destacar que todas estas pruebas se han automatizado mediante la implementación de códigos en JavaScript.
